@@ -9,4 +9,5 @@ if(number > 6):
     
 if(number < 6):
     print("Small number")
+
     
